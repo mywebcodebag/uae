@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.762" height="33.288" viewBox="0 0 51.762 33.288">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="51.762" height="33.288" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_78" data-name="Rectangle 78" width="51.762" height="33.288" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_72" data-name="Group 72" transform="translate(0 0)">
+    <g id="Group_71" data-name="Group 71" clip-path="url(#clip-path)">
+      <g id="Group_70" data-name="Group 70" style="isolation: isolate">
+        <g id="Group_69" data-name="Group 69">
+          <g id="Group_68" data-name="Group 68" clip-path="url(#clip-path-2)">
+            <g id="Group_67" data-name="Group 67" style="isolation: isolate">
+              <g id="Group_66" data-name="Group 66">
+                <g id="Group_65" data-name="Group 65" clip-path="url(#clip-path-2)">
+                  <text id="_" data-name="&lt; / &gt;" transform="translate(0 25.954)" fill="#8d8d8d" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&lt; / &gt;</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
